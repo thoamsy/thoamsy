@@ -6,5 +6,5 @@ About me
 - 🏫 I have an undergraduate CS degree and have been working for 2 years.
 - 💬 Ask me something about front ends, React related, Apple products
 - 📫 How to reach me: see my left avatar 👈
-- ⚡ Fun fact: Like girls, 《Rick and Morty》
+- ⚡ Fun fact: 《Rick and Morty》
 
